@@ -1,0 +1,7 @@
+.page-header {
+    height: 200px;
+    background: url('../../img/image1.jpg') fixed 0 -360px;
+    color: #fff;
+    border-bottom: 1px #eee solid;
+    padding-top: 50px; }
+

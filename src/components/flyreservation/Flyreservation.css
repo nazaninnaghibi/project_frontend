@@ -1,0 +1,73 @@
+html {
+}
+.back-fly{
+    background-image: url("../../img/home.jpg"); /*replace image.jpg with path to your image*/
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    min-height: 100%;
+    background-attachment: fixed;
+
+}
+.input-unit{
+    text-align : center;
+}
+.input-content{
+    padding: 10%;
+    text-align : center;
+    position: relative;
+}
+.input-text-field{
+    position: relative;
+    padding: 6px 32px;
+    border: 2px solid black;
+    /*      width: 80%;
+          margin-left: 10%;
+          margin-right: 10%;*/
+
+}
+.input-text-field-2{
+    position: relative;
+    padding: 6px 32px;
+    border: 2px solid black;
+    width: 130px;
+    /*      width: 80%;
+          margin-left: 10%;
+          margin-right: 10%;*/
+
+}
+.input-submit{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 6px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    /*margin: 4px 2px;*/
+    cursor: pointer;
+
+}
+
+.button1 {
+    background-color: coral;
+    color: #16222A;
+    border: 2px solid #16222A;
+    /*     width: 80%;
+         margin-left: 10%;
+         margin-right: 10%;*/
+}
+
+.button2 {
+    background-color: #3B5998;
+    color: #f7f7f7;
+    border: 2px solid #16222A;
+    /*     width: 80%;
+         margin-left: 10%;
+         margin-right: 10%;*/
+}
+.inputselect{
+    width: 100px !important;
+}
+
