@@ -1,11 +1,2 @@
-## Group:
-- Green Technology
+![image](https://user-images.githubusercontent.com/55413701/120648330-805a7280-c449-11eb-905e-31ba1e8be167.png)
 
-## member:
-- Nazanin Naghibi - N01319220
-
-## Activities:
-- Working on the backend, frontend and validation of SignIn page for user.
-- Working on the backend, frontend and validation of SignUp page for user.
-- Working on the backend, frontend and validation of review page.
-- Working on the backend and validation of fly reservation page.
